@@ -1,0 +1,17 @@
+.idea
+.ipynb_checkpoints
+2_coursera_ml - ίπλϋκ
+2_coursera_ml
+py_mipt_virtenv
+venv
+__pycache__
+config.py
+*.db
+*.txt
+*.json
+*.log
+*.7z
+*.7zip
+*.rtf
+*.docx
+*.pdf
